@@ -2,7 +2,7 @@
 	<h2 align="center">List Request</h2>
 	<p></p>
 	<h3>Data Kelas</h3>
-	<table cellpadding="7" rules="rows">
+	<table class="table" cellpadding="7" rules="rows">
 		<thead>
 			<tr>
 				<th>Action</th>
@@ -66,7 +66,7 @@
 	</table>
 	<p></p>
 	<h3>Data Member</h3>
-	<table cellpadding="7" rules="rows">
+	<table class="table" cellpadding="7" rules="rows">
 		<thead>
 			<tr>
 				<th>Action</th>
@@ -122,7 +122,7 @@
 	</table>
 	<p></p>
 	<h3>Data Judul</h3>
-	<table cellpadding="7" rules="rows">
+	<table class="table" cellpadding="7" rules="rows">
 		<thead>
 			<tr>
 				<th>Action</th>
@@ -177,7 +177,7 @@
 		</tbody>
 	</table>
 	<h3>Data Book (Copy of Judul)</h3>
-	<table cellpadding="7" rules="rows">
+	<table class="table" cellpadding="7" rules="rows">
 		<thead>
 			<tr>
 				<th>Action</th>
@@ -216,7 +216,7 @@
 		</tbody>
 	</table>
 	<h3>Transaction</h3>
-	<table cellpadding="7" rules="rows">
+	<table class="table" cellpadding="7" rules="rows">
 		<thead>
 			<tr>
 				<th>Action</th>
