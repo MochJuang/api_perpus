@@ -1,10 +1,4 @@
 <h1> API APLIKASI PERPUS SEDERHANA </h1>
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
 	<h2 align="center">List Request</h2>
 	<p></p>
 	<h3>Data Kelas</h3>
@@ -260,5 +254,3 @@
 			</tr>
 		</tbody>
 	</table>
-</body>
-</html>
